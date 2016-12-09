@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ambientTemperature</string>
+
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Celsius">Celsius</string>
+    <string name="sensor_not_found">Ambient Temperature Sensor not found</string>
+    <string name="Loading">Loading...</string>
+</resources>
